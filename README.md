@@ -5,21 +5,6 @@
 Software engineer with a proven ability to effectively collaborate in teams of various sizes and skill compositions on projects that span several departments. I led a project for a legal department, displaying strong communication skills as it required me to interact seamlessly with sophisticated, demanding clients that lacked technological understanding and bridge this existing communication gap between them and the development/implementation team, which resulted in 25% reduced man-hours required for court case data retrieval and reduced missed case rate by 20% over 6 months. Developed a same-day-processing autopay program that reduced bounced check payments (i.e. bad debt expense) by $30K per month. I am exceptionally driven with a track-record of exceeding expectations and am now excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
 <hr>
 
-👀 View my portfolio here: [Portfolio](www.example.com)
-
-📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
-
-💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
-
-📫 Reach me via email: [kjzehnder3@gmail.com](mailto:kjzehnder3@gmail.com)
-
-📲 Call Me here: (123) 456-7890
-
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=righttrianglesrkewl3&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
-
-
 <table>
   <thead>
     <tr>
@@ -48,6 +33,22 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 </article>
   </div>
 </div>
+
+👀 View my portfolio here: [Portfolio](www.example.com)
+
+📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
+
+💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
+
+📫 Reach me via email: [kjzehnder3@gmail.com](mailto:kjzehnder3@gmail.com)
+
+📲 Call Me here: (123) 456-7890
+
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=righttrianglesrkewl3&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
+
+
 
 <!--
 **righttrianglesrkewl3/righttrianglesrkewl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
