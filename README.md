@@ -10,7 +10,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
   <thead>
     <tr>
       <th><h3>Find me</h3></th>
-      <th><h3>Join me</h3></th>
+      <th><h3>Ask me</h3></th>
     </tr>
   </thead>
   <tbody>
@@ -45,16 +45,6 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 </table>
 </div>
 
-👀 View my portfolio here: [Portfolio](www.example.com)
-
-📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
-
-💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
-
-📫 Reach me via email: [kjzehnder3@gmail.com](mailto:kjzehnder3@gmail.com)
-
-📲 Call Me here: (123) 456-7890
-
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=righttrianglesrkewl3&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
@@ -87,6 +77,14 @@ Frontend Software Engineer with a proven ability to deliver quality results in b
 
 📲 Call Me here: (123) 456-7890
 
+👀 View my portfolio here: [Portfolio](www.example.com)
 
+📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
+
+💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
+
+📫 Reach me via email: [kjzehnder3@gmail.com](mailto:kjzehnder3@gmail.com)
+
+📲 Call Me here: (123) 456-7890
 
 -->
