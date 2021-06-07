@@ -19,7 +19,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
           <li>👀 View my portfolio here: [Portfolio](www.example.com)</li>
           <li></li>
           <li>
-              💬 Message me here: <a href=[Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/</a>
+              💬 Message me here: <a href="http://hackersandslackers.com/" rel="nofollow">http://hackersandslackers.com/</a>
         </li>
         </ul>
       </td>
