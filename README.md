@@ -16,7 +16,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     <tr>
       <td valign="top" width="49%">
         <ul>
-          <li>👀 View my portfolio here: [Portfolio](www.example.com)</li>
+          <li>👀 View my portfolio here: <a href="https://www.google.com" rel="nofollow">https://www.google.com</a></li>
           <li></li>
           <li>
               💬 Message me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/" rel="nofollow">https://www.linkedin.com/in/meet-kevin-zehnder/</a>
