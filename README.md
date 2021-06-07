@@ -16,15 +16,22 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     <tr>
       <td valign="top" width="49%">
         <ul>
-          <li>👀 View my portfolio here: <a href="https://www.google.com" rel="nofollow">https://www.google.com</a></li>
-          <li></li>
+          <li>
+              👀 View my portfolio here: <a href="https://www.google.com" rel="nofollow">https://www.google.com</a>
+          </li>
+          <li>
+              📝 Check my resume out here: <a href="https://www.google.com" rel="nofollow">https://www.google.com</a>
+          </li>
           <li>
               💬 Message me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/" rel="nofollow">https://www.linkedin.com/in/meet-kevin-zehnder/</a>
-        </li>
+          </li>
         </ul>
-      </td>
+    </td>
       <td valign="top" width="49%">
-        <li></li>
+        <li>
+            <a href="https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark" rel="nofollow">https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark</a>
+
+        </li>
         <li></li>
       </td>
     </tr>
