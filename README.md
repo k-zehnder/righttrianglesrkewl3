@@ -39,7 +39,9 @@ Software engineer with a proven ability to effectively collaborate in teams of v
   </tbody>
 </table>
 </div>
-
+<div style="width: auto; margin-left: auto; margin-right: auto">
+ div content
+</div>
 👀 View my portfolio here: [Portfolio](www.example.com)
 
 📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
