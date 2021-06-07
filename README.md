@@ -16,10 +16,10 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     <tr>
       <td valign="top" width="49%">
         <ul>
-          <li>👀 View my portfolio here: [Portfolio](www.example.com)
-            </li>
+          <li>👀 View my portfolio here: [Portfolio](www.example.com)</li>
           <li></li>
-          <li></li>
+          <li>💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
+        </li>
         </ul>
       </td>
       <td valign="top" width="49%">
