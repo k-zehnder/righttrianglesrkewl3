@@ -16,20 +16,20 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     <tr>
       <td valign="top" width="49%">
         <ul>
-          <li><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji> Portfolio: View my portfolio here: [Portfolio](www.example.com)</li>
-          <li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/): <a href="http://hackersandslackers.com/" rel="nofollow">http://hackersandslackers.com/</a></li>
-          <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Blog: <a href="http://toddbirchard.com/" rel="nofollow">http://toddbirchard.com/</a></li>
+          <li><</li>
+          <li></li>
+          <li></li>
         </ul>
       </td>
       <td valign="top" width="49%">
-        <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Publishing Code Tutorials</strong>.</li>
-        <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Golang</strong></li>
+        <li></li>
+        <li></li>
       </td>
     </tr>
   </tbody>
 </table>
 </article>
-  </div>
+ </div>
 </div>
 
 👀 View my portfolio here: [Portfolio](www.example.com)
