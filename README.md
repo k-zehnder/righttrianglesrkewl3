@@ -30,7 +30,6 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     </tr>
   </tbody>
 </table>
-<a href="https://twitter.com/ToddRBirchard" rel="nofollow">https://twitter.com/ToddRBirchard</a>
 
 👀 View my portfolio here: [Portfolio](www.example.com)
 
