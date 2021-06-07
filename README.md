@@ -1,4 +1,4 @@
-### About Kevin Zehnder👋👋:
+### About Kevin Zehnder 👋😄:
 - Exceptionally driven entry-level software engineer with a track-record of exceeding expectations and producing. Seeking an entry-level software engineer position in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of products which meet user needs.
 
 
