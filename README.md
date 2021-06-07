@@ -34,6 +34,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
         </ul>
     </td>
       <td valign="top" width="49%">
+        <br>
         <li>
           ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
         </li>
