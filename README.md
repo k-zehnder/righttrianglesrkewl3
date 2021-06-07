@@ -18,7 +18,8 @@ Software engineer with a proven ability to effectively collaborate in teams of v
         <ul>
           <li>👀 View my portfolio here: [Portfolio](www.example.com)</li>
           <li></li>
-          <li>💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/)
+          <li>
+              💬 Message me here: <a href=[Linkedin](https://www.linkedin.com/in/meet-kevin-zehnder/</a>
         </li>
         </ul>
       </td>
@@ -29,7 +30,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     </tr>
   </tbody>
 </table>
-
+<a href="https://twitter.com/ToddRBirchard" rel="nofollow">https://twitter.com/ToddRBirchard</a>
 
 👀 View my portfolio here: [Portfolio](www.example.com)
 
