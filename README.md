@@ -29,7 +29,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     </td>
       <td valign="top" width="49%">
         <li>
-            <a href="https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark" rel="nofollow">https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark</a>
+            <a href="https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark"</a>
 
         </li>
         <li></li>
