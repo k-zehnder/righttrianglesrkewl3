@@ -5,12 +5,6 @@
 Software engineer with a proven ability to effectively collaborate in teams of various sizes and skill compositions on projects that span several departments. I led a project for a legal department, displaying strong communication skills as it required me to interact seamlessly with sophisticated, demanding clients that lacked technological understanding and bridge this existing communication gap between them and the development/implementation team, which resulted in 25% reduced man-hours required for court case data retrieval and reduced missed case rate by 20% over 6 months. Developed a same-day-processing autopay program that reduced bounced check payments (i.e. bad debt expense) by $30K per month. I am exceptionally driven with a track-record of exceeding expectations and am now excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
 <hr>
 
-  <div class="Box mt-4" >
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
-<p><a href="http://toddbirchard.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b1293539f3cc6c2e1357afac97ad9a57bab91903a8975f458ce9652a1e73dbf9/687474703a2f2f746f646462697263686172642e636f6d2f696d616765732f636f756e7465722e737667" alt="Welcome Friend" data-canonical-src="http://toddbirchard.com/images/counter.svg" style="max-width:100%;"></a></p>
 <div class="container" >
 <table>
   <thead>
