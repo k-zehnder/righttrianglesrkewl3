@@ -40,8 +40,12 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 </table>
 </div>
 
-<div style="text-align:center;"><span>[... yours content ...]</span></div>
+<p align=center>
+  </p>
 
+<div align="center">
+  my text here.
+</div>
 👀 View my portfolio here: [Portfolio](www.example.com)
 
 📝 Check my resume out here: [Kevin's Resume](example.drive.google.com)
