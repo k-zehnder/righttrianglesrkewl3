@@ -26,12 +26,14 @@ Software engineer with a proven ability to effectively collaborate in teams of v
           <li>
               💬 Message me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
           </li>
+          <li>
+            📲 Call Me here: (123) 456-7890
+        </li>
         </ul>
     </td>
       <td valign="top" width="49%">
         <li>
-          <p align="center">
-            <a href="https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark"></a></p>
+            <a href="https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark">Stats</a>
         </li>
         <li></li>
       </td>
