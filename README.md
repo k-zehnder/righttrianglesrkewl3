@@ -9,7 +9,6 @@ Software engineer with a proven ability to effectively collaborate in teams of v
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
-        <a href="/toddbirchard/toddbirchard" class="no-underline Link--primary">toddbirchard</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
       </div>
 
     </div>
