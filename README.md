@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 😄 About Kevin:
+- Exceptionally driven entry-level software engineer with a track-record of exceeding expectations and producing. Seeking an entry-level software engineer position in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of products which meet user needs.
+
+
 
 <!--
 **righttrianglesrkewl3/righttrianglesrkewl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
