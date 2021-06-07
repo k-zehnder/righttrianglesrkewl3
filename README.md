@@ -17,7 +17,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
       <td valign="top" width="49%">
         <ul>
           <li>👀 View my portfolio here: [Portfolio](www.example.com)
-            <</li>
+            </li>
           <li></li>
           <li></li>
         </ul>
