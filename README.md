@@ -13,7 +13,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 
 📲 Call Me here: (123) 456-7890
 
-![Jason's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=righttrianglesrkewl3&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
 
