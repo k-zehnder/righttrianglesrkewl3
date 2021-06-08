@@ -35,7 +35,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     </td>
       <td valign="top" width="49%">
         <li>
-          <img src="docs/imgs/job1_resized.jpeg" style="width:32px;height:32px;">
+          <img src="https://github.com/righttrianglesrkewl3/job/blob/main/docs/imgs/job1_resized.jpeg" style="width:32px;height:32px;">
         </li>
       </td>
     </tr>
