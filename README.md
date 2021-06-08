@@ -35,7 +35,9 @@ Software engineer with a proven ability to effectively collaborate in teams of v
     </td>
       <td valign="top" width="49%">
         <li>
-          ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=righttrianglesrkewl3&show_icons=true&theme=dark)
+        <p align="center">
+          <img src="docs/imgs/job1_resized.jpeg" style="width:32px;height:32px;">
+        </p>
         </li>
         <li>
           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=righttrianglesrkewl3&layout=compact)]    
