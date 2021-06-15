@@ -28,9 +28,6 @@ Software engineer with a proven ability to effectively collaborate in teams of v
           <li>
               💬 Message me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
           </li>
-          <li>
-            📲 Call me here: (123) 456-7890
-        </li>
         </ul>
     </td>
       <td valign="top" width="49%">
