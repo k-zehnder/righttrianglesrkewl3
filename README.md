@@ -3,7 +3,21 @@
 
 <hr>
 <p>
-Software engineer with a proven ability to effectively collaborate in teams of various sizes and skill compositions on projects that span several departments. I led a project for a legal department, displaying strong communication skills as it required me to interact seamlessly with sophisticated, demanding clients that lacked technological understanding and bridge this existing communication gap between them and the development/implementation team, which resulted in 25% reduced man-hours required for court case data retrieval and reduced missed case rate by 20% over 6 months. Developed a same-day-processing autopay program that reduced bounced check payments (i.e. bad debt expense) by $30K per month. I am exceptionally driven with a track-record of exceeding expectations and am now excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
+🚩 Kevin Zehnder is a software engineer who believes in doing things differently and challenging the status quo. Kevin has been obsessed with perfecting his craft since “Hello World” hit the console of his first application, and has a history of finding creative solutions to complex problems while working in teams of various sizes and skill compositions. 
+
+💼 Excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
+
+👀 View my portfolio here: www.meet-kevin-z.com
+
+📝 Check my Github out here: www.github.com/righttrianglesrkewl3
+
+💡 Technologies I work with:
+
+⭕️. Languages: Python, HTML, CSS
+⭕️. Frameworks: Flask, Scrapy
+⭕️. Libraries: Pandas, NumPy, OpenCV
+⭕️. Database: Flask-SQLAlchemy
+⭕️. Misc: GIT, Linux, Nginx, uWSGI, RaspberryPi
 </p>
 
 <hr>
