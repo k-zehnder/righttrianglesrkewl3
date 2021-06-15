@@ -10,15 +10,7 @@
 👀 View my portfolio here: www.meet-kevin-z.com
 
 📝 Check my Github out here: www.github.com/righttrianglesrkewl3
-
-💡 Technologies I work with:
-⭕️. Languages: Python, HTML, CSS
-⭕️. Frameworks: Flask, Scrapy
-⭕️. Libraries: Pandas, NumPy, OpenCV
-⭕️. Database: Flask-SQLAlchemy
-⭕️. Misc: GIT, Linux, Nginx, uWSGI, RaspberryPi
 </p>
-
 <hr>
 <div align="center">
 <table>
