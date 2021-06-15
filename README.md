@@ -8,8 +8,6 @@
 💼 Excited to join a development team in a fast-paced organization where exceptional technical skills and the ability to adapt to change will be useful in the delivery of quality products.
 
 👀 View my portfolio here: www.meet-kevin-z.com
-
-📝 Check my Github out here: www.github.com/righttrianglesrkewl3
 </p>
 <hr>
 <div align="center">
