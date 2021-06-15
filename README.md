@@ -12,7 +12,6 @@
 📝 Check my Github out here: www.github.com/righttrianglesrkewl3
 
 💡 Technologies I work with:
-
 ⭕️. Languages: Python, HTML, CSS
 ⭕️. Frameworks: Flask, Scrapy
 ⭕️. Libraries: Pandas, NumPy, OpenCV
