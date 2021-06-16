@@ -34,7 +34,7 @@
               💬 Message me here: <a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
           </li>
            <li>
-             📧  Email me here: kjzehnder3@gmail.com<a href="https://www.linkedin.com/in/meet-kevin-zehnder/"> LinkedIn</a>
+             📧  Email me here: kjzehnder3@gmail.com
           </li>
         </ul>
     </td>
